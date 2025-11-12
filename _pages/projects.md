@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Carmen Lin - Portfolio
 permalink: /projects/
 ---
 
