@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+title: Weed Wacker Dissection
+description: Fluid Mechanics Analysis 
+technologies: [Editing]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
