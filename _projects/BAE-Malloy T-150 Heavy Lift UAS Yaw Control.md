@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Analysis of the BAE/Malloy T-150 Heavy Lift UAS Yaw Control
-description: System Dynamics Analysis
+description: Yaw Dynamics Modeling and PID Control Design
 technologies: [MATLAB, Simulink, Latex]
 image: /assets/images/BAE_Malloy_T150_Heavy_Lift_UAS.png
 ---
