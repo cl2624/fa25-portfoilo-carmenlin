@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Torque Wrench Design
-description: Stress/Strain Analysis
+description: Stress Analysis and Finite Element Validation
 technologies: [Autodesk Fusion 360, ANSYS FEM, MATLAB, Mechanical Design, Stress Analysis]
 image: /assets/images/torque_wrench.png
 ---
