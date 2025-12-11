@@ -18,9 +18,6 @@ My primary contributions to the project included:
 
 - Performing Bode plot and frequency-response analysis to evaluate stability margins and tune PID gains, including a comparison of the system’s behavior with payload versus without payload (Section 5)
 
-[View My Section](/assets/MAE3260_My_contributions.pdf)
-
-
 Using these tools, our team designed and evaluated a PID-based yaw controller that continuously uses the measured output to correct the quadcopter’s orientation, altering motor inputs to minimize yaw error, reject disturbances, and maintain stable flight.
 
 <div style="clear: both;"></div>
