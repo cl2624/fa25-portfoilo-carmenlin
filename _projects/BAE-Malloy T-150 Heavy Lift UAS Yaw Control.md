@@ -10,15 +10,15 @@ For my System Dynamics course (MAE 3260), I worked with a team of four to perfor
 
 My primary contributions to the project included:
 
-- Deriving the governing nonlinear ODEs for yaw rate and yaw angle
+- Constructing the state-space model matrix governing the yaw dynamics (Section 2.2)
 
-- Constructing the state-space model matrix governing the yaw dynamics
+- Formulating the transfer function representation of the system (Section 3)
 
-- Formulating the transfer function representation of the system
+- Developing the block diagram for the yaw control loop, utilizing the PID controller (Section 3)
 
-- Developing the block diagram for the yaw control loop, utilizing the PID controller
+- Performing Bode plot and frequency-response analysis to evaluate stability margins and tune PID gains, including a comparison of the system’s behavior with payload versus without payload (Section 5)
 
-- Performing Bode plot and frequency-response analysis to evaluate stability margins and tune PID gains, including a comparison of the system’s behavior with payload versus without payload
+[View My Sections] (\assets\MAE 3260 - My contributions.pdf)
 
 Using these tools, our team designed and evaluated a PID-based yaw controller that continuously uses the measured output to correct the quadcopter’s orientation, altering motor inputs to minimize yaw error, reject disturbances, and maintain stable flight.
 
@@ -28,7 +28,7 @@ Using these tools, our team designed and evaluated a PID-based yaw controller th
 **Institution:** Cornell University  
 **Tools:** MATLAB, Simulink, Latex
 **Analysis Methods:** System dynamics modeling, ODE derivation and linearization, state-space formulation, transfer function development, block-diagram modeling, Bode plot and frequency-response analysis, PID controller design and tuning
-**Deliverables:** [View Full technical report] (/assets/Systems_Final_HW.pdf)
+**Deliverables:** [View Full technical report] (\assets\Carmen Lin - MAE 3260 Final Groupwork Report.pdf)
 
 ---
 
