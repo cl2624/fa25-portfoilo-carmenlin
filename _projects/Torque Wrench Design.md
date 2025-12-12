@@ -46,8 +46,10 @@ Through repetitive MATLAB calculations, these were the dimensions that satisfied
 - Thickness (b): 0.5 in
 - Gauge location (c): 1 in
 
+[Dimensions](/assets/images/torque_wrench_side_view.png)
 ![Dimensions]({{ "/assets/images/torque_wrench_side_view.png" | relative_url }}){: .inline-image-c width="600px"} 
 *Figure 1. Dimensions (Side View)*
+[Dimensions](/assets/images/torque_wrench_top_view.png)
 ![Dimensions]({{ "/assets/images/torque_wrench_top_view.png" | relative_url }}){: .inline-image-c width="600px"} 
 *Figure 2. Dimensions (Top View)*
 
@@ -65,7 +67,7 @@ Using beam theory, our hand calculations state the following about our design:
 
 [View MatLab Code](/assets/Materials_Final_HW_MatLab_Code.pdf)
 
-[Total deformation contour](/assets/images/torque_wrench_deformation.png)
+[Total deformation contour](/assets/images/torque_wrench_deformation.png) \
 ![Total deformation contour]({{ "/assets/images/torque_wrench_deformation.png" | relative_url }}){: .inline-image-c width="600px"} 
 *Figure 3. Total deformation contour (FEM).*
 
@@ -82,6 +84,7 @@ Strength emerged as the limiting constraint, consistent with expectations for to
 ## Finite Element Analysis
 Using ANSYS, I developed a detailed finite element model of the final design to verify analytical predictions and identify stress concentrations that are overlooked by simple beam theory.
 
+[Boundary Conditions](/assets/images/torque_wrench_boundary_conditions.png)
 ![Boundary Conditions]({{ "/assets/images/torque_wrench_boundary_conditions.png" | relative_url }}){: .inline-image-c width="600px"} 
 *Figure 4. Boundary Conditions (Displacement and Force)*
 
@@ -95,8 +98,10 @@ FEM Analysis revealed the following results:
 - **Load point deflection**: 0.7 inches (approximate to the calculated 0.611 in)
 - **Strain at gauge**: 1,677.2 microstrain (mV/V) (approximate to the calculated 1,677 microstrain)
 
+[Normal Stress](/assets/images/torque_wrench_normal_stress.png)
 ![Normal Stress]({{ "/assets/images/torque_wrench_normal_stress.png" | relative_url }}){: .inline-image-c width="600px"} 
 *Figure 5. Normal Stress (FEM)*
+[Normal Strain](/assets/images/torque_wrench_normal_strain.png)
 ![Normal Strain]({{ "/assets/images/torque_wrench_normal_strain.png" | relative_url }}){: .inline-image-c width="600px"} 
 *Figure 6. Normal Elastic Strain Contour Map (FEM)*
 
@@ -104,6 +109,7 @@ FEM Analysis revealed the following results:
 
 The normal strain contour plot, oriented in the strain-gauge measurement direction, shows a clear bending strain gradient along the wrench handle. Tensile strain develops on the lower surface (−z direction), with peak values reaching approximately 0.0023 in/in near the drive–handle interface where the bending moment is highest. At the designated gauge location, the FEM-predicted strain is ~1,677 microstrain, matching the analytical result and confirming that beam theory accurately captures strain behavior in the uniform section of the handle. The gradual decrease in strain along the beam length reinforces the benefit of placing the gauge close to the fixed end to maximize measurement sensitivity.
 
+[Max Principal Stress](/assets/images/torque_wrench_deformation.png)
 ![Max Principal Stress]({{ "/assets/images/torque_wrench_deformation.png" | relative_url }}){: .inline-image-c width="600px"} 
 *Figure 7. Max Principal Stress (FEM).*
 
@@ -119,6 +125,7 @@ Using FEM strain data (ε = 1,677 με) and gauge factor (GF = 2.0):
 - Output = GF × ε / 2 = 2.0 × 0.001677 / 2 = 1.6772 mV/V
 - **Performance**: Exceeds 1.0 mv/V  requirement by 67.72%
 
+[Strain Gauge](//assets/images/torque_wrench_strain_gauge.png)
 ![Strain Gauge]({{ "/assets/images/torque_wrench_strain_gauge.png" | relative_url }}){: .inline-image-c width="600px"} 
 *Figure 8. Strain Gauge (FEM).*
 
