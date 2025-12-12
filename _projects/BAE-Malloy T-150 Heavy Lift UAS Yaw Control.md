@@ -24,10 +24,10 @@ Using these tools, our team designed and evaluated a PD-based yaw controller tha
 
 ## Project Details
 
-**Course:** MAE 3260 - System Dynamics, Fall 2025 \\
-**Institution:** Cornell University  \\
-**Tools:** MATLAB, Simulink, Latex\\
-**Analysis Methods:** System dynamics modeling, ODE derivation and linearization, state-space formulation, transfer function development, block-diagram modeling, Bode plot and frequency-response analysis, PID controller design and tuning \\
+**Course:** MAE 3260 - System Dynamics, Fall 2025 <br>
+**Institution:** Cornell University <br>
+**Tools:** MATLAB, Simulink, Latex  <br>
+**Analysis Methods:** System dynamics modeling, ODE derivation and linearization, state-space formulation, transfer function development, block-diagram modeling, Bode plot and frequency-response analysis, PID controller design and tuning <br>
 **Deliverables:** [View Full technical report](/assets/MAE3260_Full_Report.pdf)
 
 
