@@ -65,6 +65,7 @@ Using beam theory, our hand calculations state the following about our design:
 
 [View MatLab Code](/assets/Materials_Final_HW_MatLab_Code.pdf)
 
+[Total deformation contour](/assets/images/torque_wrench_deformation.png)
 ![Total deformation contour]({{ "/assets/images/torque_wrench_deformation.png" | relative_url }}){: .inline-image-c width="600px"} 
 *Figure 3. Total deformation contour (FEM).*
 
