@@ -38,7 +38,8 @@ At first glance, a weed wacker appears simple: a handheld tool that spins a cutt
     </div>
     </div>
 </div>
-\\
+
+
 The cooling turbine directs airflow over the engine to dissipate heat generated during combustion and ignition. The flywheel, with added mass around its perimeter, helps maintain smooth rotational motion while drawing air through the volute—an Archimedean spiral–shaped housing that guides cooling airflow across the engine.
 
 The flywheel also contains a small magnet that generates an ignition spark each time it passes the coil, providing consistent timing for combustion.
@@ -69,7 +70,8 @@ The flywheel also contains a small magnet that generates an ignition spark each 
   </div>
 
 </div>
-\\
+
+
 The weed wacker uses a compact 4-stroke gasoline engine, which comes to life when the flywheel's spark initiates combustion. The engine follows the standard four-stroke cycle, with valve timing controlled by a camshaft mechanically linked to the crankshaft.
 
 - **Intake Stroke:**
@@ -104,7 +106,8 @@ The exhaust valve opens as the piston moves upward, expelling combustion product
     </div>
   </div>
 </div>
-\\
+
+
 A key component is the carburetor, where separate inlet passages regulate the flow of air and fuel. When opened, these streams enter the venturi, a converging passage that accelerates the airflow and reduces static pressure at the throat. Under normal operating conditions, the flow remains subsonic (Mach < 1), and the resulting pressure drop entrains fuel into the airstream. This mechanism enables controlled air–fuel mixing and supports an approximately stoichiometric mixture to the engine.
 
 The venturi therefore serves as the central focus of the fluid mechanics analysis, illustrating how geometry and flow velocity generate the pressure difference required for passive fuel delivery.
