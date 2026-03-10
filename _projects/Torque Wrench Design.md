@@ -50,7 +50,7 @@ Through repetitive MATLAB calculations, these were the dimensions that satisfied
 <p><em>Figure 1. Dimensions (Side View)</em></p> <br>
 ![Dimensions (Top View)]({{ "/assets/images/torque_wrench_top_view.png" | relative_url }}){: .inline-image-l} <br>
 <p><em>Figure 2. Dimensions (Top View)</em></p> <br>
-
+<br>
 In the final design, the overall length remained similar, but the handle dimensions and gauge placement were refined to improve performance. Reducing the width from 0.75 to 0.5 inches raised the bending stress and strain for a given torque, increasing the strain-gauge output without jeopardizing strength. Retaining a 0.5-inch thickness maintained adequate torsional stiffness and avoided unnecessary stress concentrations. Keeping the gauge position at 1 inch ensured it remained in a region of high bending moment, supporting a strong and measurable signal. These combined adjustments improved strain sensitivity while maintaining the required static, fatigue, and fracture safety factors.
 
 <div style="clear: both;"></div>
@@ -65,7 +65,7 @@ Using beam theory, our hand calculations state the following about our design:
 
 View MatLab Code Below
 <embed src="{{ '/assets/Materials_Final_HW_MatLab_Code.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
-
+<br><br>
 ![Total deformation contour]({{ "/assets/images/torque_wrench_deformation.png" | relative_url }}){: .inline-image-l} <br>
 <p><em>Figure 3. Total deformation contour (FEM)</em></p> <br>
 
