@@ -46,8 +46,7 @@ Through repetitive MATLAB calculations, these were the dimensions that satisfied
 - Thickness (b): 0.5 in
 - Gauge location (c): 1 in
 
-
-![Dimensions (Side View)]({{ "/assets/images/torque_wrench_side_view.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Dimensions (Side View)]({{ "/assets/images/torque_wrench_side_view.png" | relative_url }}){: .inline-image-l}
 <p><em>Figure 1. Dimensions (Side View)</em></p>
 <img src="/assets/images/torque_wrench_top_view.png" width="600" alt="Dimensions (Top View)">
 <p><em>Figure 2. Dimensions (Top View)</em></p>
