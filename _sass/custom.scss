@@ -152,12 +152,12 @@ footer {
   text-align: center;
   transition: transform 0.3s ease;
   max-width: 250px; 
-  max-height: 250px; 
+  max-height: 300px; 
 }
 
 .gallery-item img {
   width: 100%;
-  height: auto;
+  height: 85%;
   display: block;
   object-fit: cover;
   object-position: center;
