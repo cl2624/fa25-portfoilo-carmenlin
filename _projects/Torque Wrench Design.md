@@ -46,9 +46,9 @@ Through repetitive MATLAB calculations, these were the dimensions that satisfied
 - Thickness (b): 0.5 in
 - Gauge location (c): 1 in
 
-![Dimensions (Side View)]({{ "/assets/images/torque_wrench_side_view.png" | relative_url }}) {: style="width:100%;"} <br>
+![Dimensions (Side View)]({{ "/assets/images/torque_wrench_side_view.png" | relative_url }}){: style="width:100%;"} <br>
 <p><em>Figure 1. Dimensions (Side View)</em></p> <br>
-![Dimensions (Top View)]({{ "/assets/images/torque_wrench_top_view.png" | relative_url }}) {: style="width:100%;"} <br>
+![Dimensions (Top View)]({{ "/assets/images/torque_wrench_top_view.png" | relative_url }}){: style="width:100%;"} <br>
 <p><em>Figure 2. Dimensions (Top View)</em></p> <br>
 <br>
 In the final design, the overall length remained similar, but the handle dimensions and gauge placement were refined to improve performance. Reducing the width from 0.75 to 0.5 inches raised the bending stress and strain for a given torque, increasing the strain-gauge output without jeopardizing strength. Retaining a 0.5-inch thickness maintained adequate torsional stiffness and avoided unnecessary stress concentrations. Keeping the gauge position at 1 inch ensured it remained in a region of high bending moment, supporting a strong and measurable signal. These combined adjustments improved strain sensitivity while maintaining the required static, fatigue, and fracture safety factors.
@@ -97,14 +97,14 @@ FEM Analysis revealed the following results:
 
 ![Normal Stress]({{ "/assets/images/torque_wrench_normal_stress.png" | relative_url }}){: style="width:100%;"} <br>
 <p><em>Figure 5. Normal Stress (FEM)</em></p> <br>
-![Normal Strain]({{ "/assets/images/torque_wrench_normal_strain.png" | relative_url }}{: style="width:100%;"}) <br>
+![Normal Strain]({{ "/assets/images/torque_wrench_normal_strain.png" | relative_url }}){: style="width:100%;"} <br>
 <p><em>Figure 6. Normal Elastic Strain Contour Map (FEM)</em></p> <br>
 
 ### Normal Strain Distribution
 
 The normal strain contour plot, oriented in the strain-gauge measurement direction, shows a clear bending strain gradient along the wrench handle. Tensile strain develops on the lower surface (−z direction), with peak values reaching approximately 0.0023 in/in near the drive–handle interface where the bending moment is highest. At the designated gauge location, the FEM-predicted strain is ~1,677 microstrain, matching the analytical result and confirming that beam theory accurately captures strain behavior in the uniform section of the handle. The gradual decrease in strain along the beam length reinforces the benefit of placing the gauge close to the fixed end to maximize measurement sensitivity.
 
-![Max Principal Stress]({{ "/assets/images/torque_wrench_max_stress.png" | relative_url }}) {: style="width:100%;"}<br>
+![Max Principal Stress]({{ "/assets/images/torque_wrench_max_stress.png" | relative_url }}){: style="width:100%;"}<br>
 <p><em>Figure 7. Max Principal Stress (FEM)</em></p> <br>
 
 ### Maximum Principal Stress Analysis
