@@ -148,22 +148,6 @@ footer {
 }
 
 .gallery-item {
-  overflow: visible;
-  text-align: center;
-  transition: transform 0.3s ease;
-  max-width: 250px;
-}
-
-.gallery-item img {
-  width: 100%;
-  height: auto;
-  display: block;
-  object-fit: contain;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-/*
-.gallery-item {
   overflow: hidden;
   text-align: center;
   transition: transform 0.3s ease;
@@ -181,7 +165,7 @@ footer {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
 }
-*/
+
 .gallery-item p {
   margin: 13px 0;
   font-size: .9rem;
