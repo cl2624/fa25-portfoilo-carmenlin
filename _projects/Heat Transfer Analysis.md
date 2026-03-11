@@ -11,7 +11,7 @@ I chose Homework 3 because it helped me connect heat transfer analysis to system
 This assignment also felt important because mechanical engineering includes systems such as HVAC, where heat transfer control matters. Before this course, I mostly understood how these systems operate at a basic level. This homework helped me understand the heat transfer mechanisms behind that operation. It gave me a deeper view of how engineers manage temperature through material selection and layered structures. This type of analysis appears in many mechanical systems, so learning how to model heat flow through components will be useful in future engineering work.
 <br><br>
 <embed src="{{ '/assets/MAE 3240 HW3.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
-<br><br>
+<br>
 
 ## Project Details
 
