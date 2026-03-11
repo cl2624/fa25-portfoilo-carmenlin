@@ -4,6 +4,7 @@ title: Torque Wrench Design
 description: Stress Analysis and Finite Element Validation
 technologies: [Autodesk Fusion 360, ANSYS FEM, MATLAB, Mechanical Design, Stress Analysis]
 image: /assets/images/torque_wrench.png
+
 ---
 
 For my Mechanics of Materials course (MAE 3270), I designed and analyzed an instrumented torque wrench rated for 600 in-lbf using a combination of analytical calculations and finite element analysis (FEM). The project brought together key concepts in material selection, fracture mechanics, fatigue analysis, strain-gauge instrumentation, and structural optimization to create a design that is both accurate and mechanically reliable.
