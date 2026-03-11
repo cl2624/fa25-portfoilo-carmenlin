@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Heat Transfer Analysis
-description: Thermal resistance network analysis of a turbine blade with and without a thermal barrier coating, focusing on conduction, convection, and temperature distribution in high temperature systems.
+description: Thermal resistance network analysis of a turbine blade
 technologies: [Heat Transfer, Thermal Resistance Networks, Conduction, Convection, Turbine Blade Analysis]
 image: /assets/images/turbine_heat_transfer.png
 ---
@@ -13,7 +13,7 @@ This assignment also felt important because mechanical engineering includes syst
 <embed src="{{ '/assets/MAE 3240 HW3.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 <br><br>
 
-<div style="clear: both;"></div>
+<div markdown="1">
 
 ## Project Details
 
