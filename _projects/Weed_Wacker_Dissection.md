@@ -32,7 +32,7 @@ At first glance, a weed wacker appears simple: a handheld tool that spins a cutt
 <div style="display:flex; gap:24px; align-items:flex-end;">
 
   <div style="text-align:center;">
-    <img src="/assets/images/weedwacker_flywheel.png" style="height:260px; width:auto;">
+    ![Flywheel]({{ "/assets/images/weedwacker_flywheel.png" | relative_url }}){: style="height:260px; width:auto;"}
     <div style="font-style:italic; margin-top:6px;">
       Figure 1. Flywheel
     </div>
@@ -49,21 +49,21 @@ The flywheel also contains a small magnet that generates an ignition spark each 
 <div style="display:flex; gap:24px; align-items:flex-end;">
 
   <div style="text-align:center;">
-    <img src="/assets/images/weedwacker_piston.png" style="height:260px; width:auto;">
+    ![Piston]({{ "/assets/images/weedwacker_piston.png" | relative_url }}){: style="height:260px; width:auto;"}
     <div style="font-style:italic; margin-top:6px;">
       Figure 2. Piston
     </div>
   </div>
 
   <div style="text-align:center;">
-    <img src="/assets/images/weedwacker_stroke.png" style="height:260px; width:auto;">
+    ![Four-Stroke Cycle]({{ "/assets/images/weedwacker_stroke.png" | relative_url }}){: style="height:260px; width:auto"}
     <div style="font-style:italic; margin-top:6px;">
       Figure 3. Four-Stroke Cycle
     </div>
   </div>
 
   <div style="text-align:center;">
-    <img src="/assets/images/weedwacker_cam.png" style="height:260px; width:auto;">
+    ![Camshaft]({{ "/assets/images/weedwacker_cam.png" | relative_url }}){: style="height:260px; width:auto;"}
     <div style="font-style:italic; margin-top:6px;">
       Figure 4. Camshaft
     </div>
@@ -93,14 +93,14 @@ The exhaust valve opens as the piston moves upward, expelling combustion product
 <div style="display:flex; gap:24px; align-items:flex-end;">
 
   <div style="text-align:center;">
-    <img src="/assets/images/weedwacker_carburetor.png" style="height:260px; width:auto;">
+    ![Carburetor]({{ "/assets/images/weedwacker_carburetor.png" | relative_url }}){: style="height:260px; width:auto;"}
     <div style="font-style:italic; margin-top:6px;">
       Figure 5. Carburetor
     </div>
   </div>
 
   <div style="text-align:center;">
-    <img src="/assets/images/weedwacker_venturi.png" style="height:260px; width:auto;">
+    ![Venturi]({{ "/assets/images/weedwacker_venturi.png" | relative_url }}){: style="height:260px; width:auto;"}
     <div style="font-style:italic; margin-top:6px;">
       Figure 6. Venturi
     </div>
