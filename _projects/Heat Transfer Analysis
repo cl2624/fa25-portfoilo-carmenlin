@@ -1,0 +1,22 @@
+---
+layout: project
+title: Heat Transfer Analysis
+description: ...
+technologies: [...]
+image: /assets/images/torque_wrench.png
+---
+
+
+
+<embed src="{{ '/assets/MAE3240_HW2.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
+## Project Details
+
+**Course:** MAE 3270 - Mechanical Properties of Materials, Fall 2025  
+**Institution:** Cornell University  
+**Tools:** MATLAB, Autodesk Fusion 360, ANSYS FEM  
+**Analysis Methods:** Beam theory, fracture mechanics, fatigue analysis, finite element method  
+**Deliverables:** Technical report, CAD model, FEM analysis, design calculations
+
+---
+
+This project integrates . 
