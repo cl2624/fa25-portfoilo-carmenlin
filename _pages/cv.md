@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring mechanical engineering student seeking opportunities to further develop technical and analytical skills through hands-on engineering work and real-world problem solving. Interested in applying engineering fundamentals to design, analysis, and product development while continuing to expand my understanding across different areas of mechanical engineering. Motivated to learn from practical experience, contribute to meaningful technical projects, and build a strong foundation for a career in engineering.
 
 ---
 
@@ -49,23 +49,25 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
+- **AgAID (OSU) - Robotics Intern**  
   [Month, Year] - [Month, Year]  
   - Responsibility 1  
   - Responsibility 2  
 
 ---
-
+<!--
 #### Achievements & Certifications
 - [Certification Name], [Issuing Organization], [Year]  
 - [Achievement Name], [Competition/Event], [Year]  
 
 ---
-
+-->
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
+- Mechanical Lead of CUXR Project Team  
+- Member of Ski & Snowboard Club
+- Member of Society of Women Engineers (SWE)
+- Member of Guild of Visual Arts
+<!--
 ---
 
 #### References
