@@ -6,7 +6,6 @@ technologies: [Heat Transfer, Thermal Resistance Networks, Conduction, Convectio
 image: /assets/images/turbine_heat_transfer.png
 ---
 
-
 I chose Homework 3 because it helped me connect heat transfer analysis to systems I already find interesting. I enjoyed fluid mechanics last year, and turbines appear in many engineering systems. Working through the turbine blade problem showed how conduction, convection, and contact resistance work together in one model. Comparing the blade with and without the thermal barrier coating made the temperature changes across each layer clear. The ceramic coating adds resistance to heat flow and keeps the superalloy blade below its allowable temperature. This showed how heat transfer equations guide real turbine design.
 <br>
 This assignment also felt important because mechanical engineering includes systems such as HVAC, where heat transfer control matters. Before this course, I mostly understood how these systems operate at a basic level. This homework helped me understand the heat transfer mechanisms behind that operation. It gave me a deeper view of how engineers manage temperature through material selection and layered structures. This type of analysis appears in many mechanical systems, so learning how to model heat flow through components will be useful in future engineering work.
@@ -14,7 +13,7 @@ This assignment also felt important because mechanical engineering includes syst
 <embed src="{{ '/assets/MAE 3240 HW3.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 <br><br>
 
-<div>
+<div style="clear: both;"></div>
 
 ## Project Details
 
@@ -24,8 +23,8 @@ This assignment also felt important because mechanical engineering includes syst
 **Analysis Methods:** Thermal resistance networks, conduction analysis, convection analysis 
 **Deliverables:** Problem Set 
 
-This homework integrates conduction and convection analysis through a thermal resistance network to evaluate heat transfer in a turbine blade system. The calculations determine the temperature distribution across the blade and coating layers and show how a thermal barrier coating increases resistance to heat flow and protects the superalloy from excessive temperature. The problem connects heat transfer equations to a practical turbine application and demonstrates how layered materials control heat in high temperature environments.
-
-**Technologies Used:** Heat Transfer, Thermal Resistance Networks, Conduction, Convection, Turbine Blade Analysis
-
 <div>
+
+---
+
+This homework integrates conduction and convection analysis through a thermal resistance network to evaluate heat transfer in a turbine blade system. The calculations determine the temperature distribution across the blade and coating layers and show how a thermal barrier coating increases resistance to heat flow and protects the superalloy from excessive temperature. The problem connects heat transfer equations to a practical turbine application and demonstrates how layered materials control heat in high temperature environments.
