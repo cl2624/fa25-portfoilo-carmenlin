@@ -1,5 +1,5 @@
 ---
-layout: Problem Set
+layout: project
 title: Heat Transfer Analysis
 description: Thermal resistance network analysis of a turbine blade with and without a thermal barrier coating, focusing on conduction, convection, and temperature distribution in high temperature systems.
 technologies: [Heat Transfer, Thermal Resistance Networks, Conduction, Convection, Turbine Blade Analysis]
