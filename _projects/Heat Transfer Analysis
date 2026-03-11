@@ -3,7 +3,8 @@ layout: Problem Set
 title: Heat Transfer Analysis
 description: Thermal resistance network analysis of a turbine blade with and without a thermal barrier coating, focusing on conduction, convection, and temperature distribution in high temperature systems.
 technologies: [Heat Transfer, Thermal Resistance Networks, Conduction, Convection, Turbine Blade Analysis]
-image: /assets/image/turbine_heat_transfer.png
+image: /assets/images/turbine_heat_transfer.png
+---
 ---
 
 I chose Homework 3 because it helped me connect heat transfer analysis to systems I already find interesting. I enjoyed fluid mechanics last year, and turbines appear in many engineering systems. Working through the turbine blade problem showed how conduction, convection, and contact resistance work together in one model. Comparing the blade with and without the thermal barrier coating made the temperature changes across each layer clear. The ceramic coating adds resistance to heat flow and keeps the superalloy blade below its allowable temperature. This showed how heat transfer equations guide real turbine design.
