@@ -24,7 +24,7 @@ Aspiring mechanical engineering student seeking opportunities to further develop
 
 - **Bronx High School of Science**  
   *High School Diploma*  
-  Graduation: May, 2023
+  Graduation: June, 2023
 
 ---
 
