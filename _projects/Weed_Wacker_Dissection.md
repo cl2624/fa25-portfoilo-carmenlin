@@ -273,7 +273,7 @@ I contributed to the physical dissection of the weed wacker engine and measured 
 ## Project Details
 
 **Course:** MAE 3230 - Fluid Mechanics, Fall 2025  
-**Institution:** Cornell University 
+**Institution:** Cornell University <br>
 **Analysis Focus:** Carburetor venturi fluid mechanics  
 **Key Calculations:** Continuity equation, Reynolds number, Bernoulli's equation  
 **Deliverables:** Educational video, quantitative analysis, component documentation
