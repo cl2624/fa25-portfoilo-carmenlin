@@ -13,18 +13,13 @@ This assignment also felt important because mechanical engineering includes syst
 <embed src="{{ '/assets/MAE 3240 HW3.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 <br><br>
 
-<div markdown="1">
-
 ## Project Details
 
-**Course:** MAE 3240 – Heat Transfer, Spring 2026 
-**Institution:** Cornell University  
-**Tools:** None 
-**Analysis Methods:** Thermal resistance networks, conduction analysis, convection analysis 
-**Deliverables:** Problem Set 
-
-<div>
+**Course:** MAE 3240 – Heat Transfer, Spring 2026 <br>
+**Institution:** Cornell University  <br>
+**Tools:** None <br>
+**Analysis Methods:** Thermal resistance networks, conduction analysis, convection analysis <br>
+**Deliverables:** Problem Set <br>
 
 ---
-
 This homework integrates conduction and convection analysis through a thermal resistance network to evaluate heat transfer in a turbine blade system. The calculations determine the temperature distribution across the blade and coating layers and show how a thermal barrier coating increases resistance to heat flow and protects the superalloy from excessive temperature. The problem connects heat transfer equations to a practical turbine application and demonstrates how layered materials control heat in high temperature environments.
