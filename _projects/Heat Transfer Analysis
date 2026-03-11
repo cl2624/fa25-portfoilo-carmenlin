@@ -8,7 +8,7 @@ image: /assets/images/torque_wrench.png
 
 
 
-<embed src="{{ '/assets/MAE3240_HW2.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
+<embed src="{{ '/assets/MAE 3240_HW2.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 ## Project Details
 
 **Course:** MAE 3270 - Mechanical Properties of Materials, Fall 2025  
