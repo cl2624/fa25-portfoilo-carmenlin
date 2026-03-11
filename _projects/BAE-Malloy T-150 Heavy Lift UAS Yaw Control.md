@@ -29,7 +29,7 @@ Using these tools, our team designed and evaluated a PD-based yaw controller tha
 **Tools:** MATLAB, Simulink, Latex  <br>
 **Analysis Methods:** System dynamics modeling, ODE derivation and linearization, state-space formulation, transfer function development, block-diagram modeling, Bode plot and frequency-response analysis, PID controller design and tuning <br>
 **Deliverables:** Full Technical Report Below
-<embed src="{{ '/assets/MAE3260_Full_Report.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />(/assets/MAE3260_Full_Report.pdf)
+<embed src="{{ '/assets/MAE3260_Full_Report.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 
 
 ---
