@@ -29,15 +29,8 @@ At first glance, a weed wacker appears simple: a handheld tool that spins a cutt
 
 ### Cooling Turbine
 
-<div style="display:flex; gap:24px; align-items:flex-end;">
-
-  <div style="text-align:center;">
-    ![Flywheel]({{ "/assets/images/weedwacker_flywheel.png" | relative_url }}){: style="height:260px; width:auto;"}
-    <div style="font-style:italic; margin-top:6px;">
-      Figure 1. Flywheel
-    </div>
-    </div>
-</div>
+![Flywheel]({{ "/assets/images/weedwacker_flywheel.png" | relative_url }}){: style="height:260px; width:auto;"}
+*Figure 1. Flywheel*
 
 
 The cooling turbine directs airflow over the engine to dissipate heat generated during combustion and ignition. The flywheel, with added mass around its perimeter, helps maintain smooth rotational motion while drawing air through the volute—an Archimedean spiral–shaped housing that guides cooling airflow across the engine.
@@ -46,31 +39,14 @@ The flywheel also contains a small magnet that generates an ignition spark each 
 
 ### Four-Stroke Engine
 
-<div style="display:flex; gap:24px; align-items:flex-end;">
+![Piston]({{ "/assets/images/weedwacker_piston.png" | relative_url }}){: style="height:260px; width:auto;"}
+*Figure 2. Piston*
 
-  <div style="text-align:center;">
-    ![Piston]({{ "/assets/images/weedwacker_piston.png" | relative_url }}){: style="height:260px; width:auto;"}
-    <div style="font-style:italic; margin-top:6px;">
-      Figure 2. Piston
-    </div>
-  </div>
+![Four-Stroke Cycle]({{ "/assets/images/weedwacker_stroke.png" | relative_url }}){: style="height:260px; width:auto"}
+*Figure 3. Four-Stroke Cycle*
 
-  <div style="text-align:center;">
-    ![Four-Stroke Cycle]({{ "/assets/images/weedwacker_stroke.png" | relative_url }}){: style="height:260px; width:auto"}
-    <div style="font-style:italic; margin-top:6px;">
-      Figure 3. Four-Stroke Cycle
-    </div>
-  </div>
-
-  <div style="text-align:center;">
-    ![Camshaft]({{ "/assets/images/weedwacker_cam.png" | relative_url }}){: style="height:260px; width:auto;"}
-    <div style="font-style:italic; margin-top:6px;">
-      Figure 4. Camshaft
-    </div>
-  </div>
-
-</div>
-
+![Camshaft]({{ "/assets/images/weedwacker_cam.png" | relative_url }}){: style="height:260px; width:auto;"}
+*Figure 4. Camshaft*
 
 The weed wacker uses a compact 4-stroke gasoline engine, which comes to life when the flywheel's spark initiates combustion. The engine follows the standard four-stroke cycle, with valve timing controlled by a camshaft mechanically linked to the crankshaft.
 
@@ -90,23 +66,11 @@ The exhaust valve opens as the piston moves upward, expelling combustion product
 
 ## Carburetor and Venturi Analysis
 
-<div style="display:flex; gap:24px; align-items:flex-end;">
+![Carburetor]({{ "/assets/images/weedwacker_carburetor.png" | relative_url }}){: style="height:260px; width:auto;"}
+*Figure 5. Carburetor*
 
-  <div style="text-align:center;">
-    ![Carburetor]({{ "/assets/images/weedwacker_carburetor.png" | relative_url }}){: style="height:260px; width:auto;"}
-    <div style="font-style:italic; margin-top:6px;">
-      Figure 5. Carburetor
-    </div>
-  </div>
-
-  <div style="text-align:center;">
-    ![Venturi]({{ "/assets/images/weedwacker_venturi.png" | relative_url }}){: style="height:260px; width:auto;"}
-    <div style="font-style:italic; margin-top:6px;">
-      Figure 6. Venturi
-    </div>
-  </div>
-</div>
-
+![Venturi]({{ "/assets/images/weedwacker_venturi.png" | relative_url }}){: style="height:260px; width:auto;"}
+*Figure 6. Venturi*
 
 A key component is the carburetor, where separate inlet passages regulate the flow of air and fuel. When opened, these streams enter the venturi, a converging passage that accelerates the airflow and reduces static pressure at the throat. Under normal operating conditions, the flow remains subsonic (Mach < 1), and the resulting pressure drop entrains fuel into the airstream. This mechanism enables controlled air–fuel mixing and supports an approximately stoichiometric mixture to the engine.
 
