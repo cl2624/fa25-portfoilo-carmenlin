@@ -55,9 +55,9 @@ Updating In Progress...
   [Month, Year] - [Month, Year]  
   - Responsibility 1  
   - Responsibility 2  
--->
+  
 ---
-<!--
+
 #### Achievements & Certifications
 - [Certification Name], [Issuing Organization], [Year]  
 - [Achievement Name], [Competition/Event], [Year]  
