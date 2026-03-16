@@ -29,13 +29,15 @@ Aspiring mechanical engineering student seeking opportunities to further develop
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, Blender, Unreal Engine, Carla  
+- **Software:** Autodesk Fusion 360, Blender, Unreal Engine, Carla, SolidWorks, ANSYS (FEA)
 - **Programming:** Python, MATLAB, Java, ROS2 
-- **Tools:** 3D Printing, Laser Cutting, Soldering
+- **Tools:** 3D Printing, Laser Cutting, Soldering, Welding, CNC Milling, Lathe Machining
 
 ---
 
 #### Projects
+Updating In Progress...
+<!--
 - **[Project Title]**:  
   *[Short Description]*  
   - Key Achievement 1  
@@ -53,7 +55,7 @@ Aspiring mechanical engineering student seeking opportunities to further develop
   [Month, Year] - [Month, Year]  
   - Responsibility 1  
   - Responsibility 2  
-
+-->
 ---
 <!--
 #### Achievements & Certifications
