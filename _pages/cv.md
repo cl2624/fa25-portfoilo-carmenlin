@@ -37,7 +37,9 @@ Aspiring mechanical engineering student seeking opportunities to further develop
 
 #### Projects
 Updating In Progress...
+
 <!--
+---
 - **[Project Title]**:  
   *[Short Description]*  
   - Key Achievement 1  
@@ -55,7 +57,7 @@ Updating In Progress...
   [Month, Year] - [Month, Year]  
   - Responsibility 1  
   - Responsibility 2  
-  
+
 ---
 
 #### Achievements & Certifications
@@ -64,6 +66,7 @@ Updating In Progress...
 
 ---
 -->
+
 #### Extracurricular Activities
 - Mechanical Lead of CUXR Project Team  
 - Member of Ski & Snowboard Club
