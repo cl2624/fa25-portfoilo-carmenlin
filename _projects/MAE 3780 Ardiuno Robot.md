@@ -13,7 +13,9 @@ This project focused on designing and building a fully autonomous competition ro
 Our team assembled both the hardware and software from the ground up. The robot used PWM motor control through H-bridges, QTI sensors for border detection, and an ultrasonic sensor for obstacle avoidance. Alongside the programming work, we designed custom CAD components, laser cut acrylic arms, and tested multiple collection mechanisms before finalizing the competition design. 
 </p>
 
-<br><br>
+Below is our final report:
+
+<br>
 <embed src="{{ '/assets/Mechatronics Final Report.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 <br>
 
