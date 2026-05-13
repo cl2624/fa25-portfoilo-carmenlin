@@ -18,7 +18,7 @@ The objective of the competition was to collect as many cubes as possible within
 </p>
 Below is our final report:
 
-<br><br>
+<br>
 <embed src="{{ '/assets/Mechatronics Final Report.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 <br>
 
