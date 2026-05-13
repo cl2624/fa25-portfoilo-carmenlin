@@ -1,11 +1,32 @@
 ---
 layout: project
 title: MAE 3780 Ardiuno Robot
-description: Thermal resistance network analysis of a turbine blade
-technologies: [Heat Transfer, Thermal Resistance Networks, Conduction, Convection, Turbine Blade Analysis]
+description: Autonomous Arduino based robot designed to collect blocks and navigate within competition boundaries using sensor driven control.
+technologies: [Arduino UNO, C Code, PWM Motor Control, Ultrasonic Sensors, QTI Sensors, H-Bridge Circuits, CAD, Mechatronics]
 image: assets/images/mechatronics_robot.jpg
 ---
+<p>
+This project focused on designing and building a fully autonomous competition robot using an Arduino UNO, DC motors, and multiple sensor systems. The robot was programmed to navigate a competition arena, collect blocks, and detect field boundaries in real time. The project combined mechanical design, circuit programming, and iterative testing throughout the semester.
+</p>
+
+<p>
+Our team assembled both the hardware and software from the ground up. The robot used PWM motor control through H-bridges, QTI sensors for border detection, and an ultrasonic sensor for obstacle avoidance. Alongside the programming work, we designed custom CAD components, laser cut acrylic arms, and tested multiple collection mechanisms before finalizing the competition design. 
+</p>
 
 <br><br>
 <embed src="{{ '/assets/Mechatronics Final Report.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 <br>
+
+<div style="clear: both;"></div>
+
+## Project Details
+
+**Course:** MAE 3780, Spring 2026  
+**Institution:** Cornell University  
+**Tools:** Arduino, C Code, Autodesk Fusion 360, Laser Cutting, 3D Printing  
+**Systems Used:** Arduino UNO, PWM motor control, QTI sensors, ultrasonic sensors, H-bridge motor drivers  
+**Deliverables:** Autonomous competition and final technical report
+
+---
+
+This project combined mechanical design, programming, and iterative prototyping to develop a fully autonomous competition robot. The work involved assembling robot components, integrating multiple sensor systems, programming real time control logic, and troubleshooting mechanical and electrical failures throughout development. The project emphasized reliability, teamwork, rapid iteration, and practical engineering problem solving under competition constraints.
