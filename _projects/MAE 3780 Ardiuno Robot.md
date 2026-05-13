@@ -6,12 +6,13 @@ technologies: [Arduino UNO, C Code, PWM Motor Control, Ultrasonic Sensors, QTI S
 image: assets/images/mechatronics_robot.jpg
 ---
 <p>
-This project focused on designing and building a fully autonomous competition robot using an Arduino UNO, DC motors, and multiple sensor systems. The robot was programmed to navigate a competition arena, collect blocks, and detect field boundaries in real time. The project combined mechanical design, circuit programming, and iterative testing throughout the semester.
+An autonomous robot built using an Arduino microcontroller and various sensors to complete a Cube Craze challenge against other robots.
 </p>
 
+<h3>The Challenge</h3>
+
 <p>
-Our team assembled both the hardware and software from the ground up. The robot used PWM motor control through H-bridges, QTI sensors for border detection, and an ultrasonic sensor for obstacle avoidance. Alongside the programming work, we designed custom CAD components, laser cut acrylic arms, and tested multiple collection mechanisms before finalizing the competition design. 
-</p>
+The objective of the competition was to collect as many cubes as possible within one minute while competing head to head against another autonomous robot. Cubes only counted if they were fully contained within the robot’s perimeter when viewed from above, which required teams to design an effective collection mechanism. The robot also needed to stay within the arena boundaries while reacting to other moving robots during the match.To build our robot, we used an Arduino UNO as the main controller and programmed its behavior using the Arduino IDE and Embedded C. The robot integrated multiple components including sensors, DC motors, H bridges, and custom fabricated mechanical parts to perform autonomous navigation and cube collection during competition. The report below discusses the robot’s design and gameplay strategy, the development and testing process throughout the semester, competition performance and analysis, lessons learned during the project, and improvements that could be made in future iterations.
 
 Below is our final report:
 
