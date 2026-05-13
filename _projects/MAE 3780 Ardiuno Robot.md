@@ -20,21 +20,17 @@ Below is our final report:
 <embed src="{{ '/assets/Mechatronics Final Report.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 <br>
 
-<div style="clear: both;"></div>
-
-## Team Members
+## Team Members <br>
 
 **Carmen Lin, Gina Liu, Anish Dhawan**
 
-<div style="clear: both;"></div>
-
 ## Project Details
 
-**Course:** MAE 3780, Spring 2026  
-**Institution:** Cornell University  
-**Tools:** Arduino, C Code, Autodesk Fusion 360, Laser Cutting, 3D Printing  
-**Systems Used:** Arduino UNO, PWM motor control, QTI sensors, ultrasonic sensors, H-bridge motor drivers  
-**Deliverables:** Autonomous competition and final technical report
+**Course:** MAE 3780, Spring 2026  <br>
+**Institution:** Cornell University  <br>
+**Tools:** Arduino, C Code, Autodesk Fusion 360, Laser Cutting, 3D Printing  <br>
+**Systems Used:** Arduino UNO, PWM motor control, QTI sensors, ultrasonic sensors, H-bridge motor drivers  <br>
+**Deliverables:** Autonomous competition and final technical report<br>
 
 ---
 
