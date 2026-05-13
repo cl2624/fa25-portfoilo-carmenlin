@@ -20,6 +20,7 @@ Below is our final report:
 <embed src="{{ '/assets/Mechatronics Final Report.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 <br>
 
+<div style="clear: both;"></div>
 
 ## Team Members
 
