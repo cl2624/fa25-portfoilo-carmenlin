@@ -9,7 +9,9 @@ image: assets/images/mechatronics_robot.jpg
 An autonomous robot built using an Arduino microcontroller and various sensors to complete a Cube Craze challenge against other robots.
 </p>
 
-<h3>The Challenge</h3>
+<div style="clear: both;"></div>
+
+## The Challenge
 
 <p>
 The objective of the competition was to collect as many cubes as possible within one minute while competing head to head against another autonomous robot. Cubes only counted if they were fully contained within the robot’s perimeter when viewed from above, which required teams to design an effective collection mechanism. The robot also needed to stay within the arena boundaries while reacting to other moving robots during the match.To build our robot, we used an Arduino UNO as the main controller and programmed its behavior using the Arduino IDE and Embedded C. The robot integrated multiple components including sensors, DC motors, H bridges, and custom fabricated mechanical parts to perform autonomous navigation and cube collection during competition. The report below discusses the robot’s design and gameplay strategy, the development and testing process throughout the semester, competition performance and analysis, lessons learned during the project, and improvements that could be made in future iterations.
@@ -20,17 +22,17 @@ Below is our final report:
 <embed src="{{ '/assets/Mechatronics Final Report.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 <br>
 
-## Team Members <br>
+## Team Members
 
-**Carmen Lin, Gina Liu, Anish Dhawan**
+Carmen Lin, Gina Liu, Anish Dhawan
 
 ## Project Details
 
-**Course:** MAE 3780, Spring 2026  <br>
-**Institution:** Cornell University  <br>
-**Tools:** Arduino, C Code, Autodesk Fusion 360, Laser Cutting, 3D Printing  <br>
-**Systems Used:** Arduino UNO, PWM motor control, QTI sensors, ultrasonic sensors, H-bridge motor drivers  <br>
-**Deliverables:** Autonomous competition and final technical report<br>
+**Course:** MAE 3780, Spring 2026  
+**Institution:** Cornell University  
+**Tools:** Arduino, C Code, Autodesk Fusion 360, Laser Cutting, 3D Printing  
+**Systems Used:** Arduino UNO, PWM motor control, QTI sensors, ultrasonic sensors, H-bridge motor drivers  
+**Deliverables:** Autonomous competition robot and final technical report
 
 ---
 
