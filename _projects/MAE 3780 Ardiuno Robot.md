@@ -17,6 +17,11 @@ Our team assembled both the hardware and software from the ground up. The robot 
 <embed src="{{ '/assets/Mechatronics Final Report.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 <br>
 
+
+## Team Members
+
+**Carmen Lin, Gina Liu, Anish Dhawan**
+
 <div style="clear: both;"></div>
 
 ## Project Details
