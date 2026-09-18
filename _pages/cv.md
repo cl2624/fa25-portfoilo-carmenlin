@@ -58,65 +58,44 @@ Updating In Progress...
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
+
 - **Keychain Umbrella**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-  - **Orange Juicer**:  
+- **Orange Juicer**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-  - **Ardunio Robot**:  
+- **Ardunio Robot**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-  - **Torque Wrench Design**:  
+- **Torque Wrench Design**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-  - **BAE-Malloy T-150 Heavy Lift UAS Yaw Control**:  
+- **BAE-Malloy T-150 Heavy Lift UAS Yaw Control**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-  - **Weed Wacker Dissection**:  
+- **Weed Wacker Dissection**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
    
-  ---
-
-<!--
-
-#### Work Experience
-- **AgAID (OSU) - Robotics Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
 ---
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
--->
 
 #### Extracurricular Activities
 - Mechanical Lead of CUXR Project Team  
 - Member of Ski & Snowboard Club
 - Member of Society of Women Engineers (SWE)
 - Member of Guild of Visual Arts
-<!--
----
 
 #### References
 Available upon request.
-
----
--->
