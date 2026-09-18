@@ -38,19 +38,59 @@ Aspiring mechanical engineering student seeking opportunities to further develop
 #### Projects
 Updating In Progress...
 
+---
+- **Force Feedback Arm**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+- **VR Treadmill Frame**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+- **Light Diffuser Cone Attachment**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+- **Apple Proxy System**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+- **Keychain Umbrella**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+  - **Orange Juicer**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+  - **Ardunio Robot**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+  - **Torque Wrench Design**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+  - **BAE-Malloy T-150 Heavy Lift UAS Yaw Control**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+  - **Weed Wacker Dissection**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+   
+  ---
+
 <!--
----
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
 
 #### Work Experience
 - **AgAID (OSU) - Robotics Intern**  
