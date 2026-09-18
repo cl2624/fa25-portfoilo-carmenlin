@@ -3,7 +3,7 @@ layout: project
 title: LoadStep
 description: 
 technologies: [MATLAB, Simulink, Latex]
-image: /assets/images/BAE_Malloy_T150_Heavy_Lift_UAS.png
+image: /assets/images/LoadStep.png
 ---
 
 
