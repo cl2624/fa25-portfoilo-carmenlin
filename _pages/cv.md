@@ -96,6 +96,7 @@ Updating In Progress...
 - Member of Ski & Snowboard Club
 - Member of Society of Women Engineers (SWE)
 - Member of Guild of Visual Arts
+- Memeber of Cornell ASME
 
 #### References
 Available upon request.
